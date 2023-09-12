@@ -62,4 +62,10 @@ Check if a hand is detected (hand is a list of hand information):
 We can see that code captures video from your webcam, processes hand gestures using the cvzone HandTrackingModule, and responds with speech using pyttsx3 when specific hand gestures are detected. It recognizes gestures like "namaste," "Good job," "Pleasure meeting with you," "Perfect," "I love Vimal Sir," "Sorry," and "Help," each associated with a different finger configuration.
 
 
+# Contact
+For any questions or feedback, please reach out to neelayambalkar@email.com.
+
+
+
+
 
